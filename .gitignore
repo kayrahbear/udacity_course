@@ -1,4 +1,4 @@
-.idea
-.ipynb_checkpoints
-projectone/data_files/daily_engagement_full.csv
+*.idea
+*.ipynb_checkpoints
+data_science_course/projectone/data_files/daily_engagement_full.csv
 
