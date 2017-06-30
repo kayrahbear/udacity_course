@@ -1,0 +1,17 @@
+name: p_w_c
+channels:
+- anaconda-fusion
+- defaults
+dependencies:
+- beautifulsoup4=4.6.0=py36_0
+- django=1.11.2=py36_0
+- lxml=3.8.0=py36_0
+- pip=9.0.1=py36_1
+- python=3.6.1=2
+- pytz=2017.2=py36_0
+- requests=2.14.2=py36_0
+- setuptools=27.2.0=py36_1
+- vs2015_runtime=14.0.25420=0
+- wheel=0.29.0=py36_0
+prefix: C:\Users\<username>\Anaconda3\envs\p_w_c
+
