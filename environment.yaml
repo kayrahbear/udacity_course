@@ -94,4 +94,4 @@ dependencies:
   - nb-conda-kernels==2.0.0
   - prompt-toolkit==1.0.9
   - win-unicode-console==0.5
-prefix: C:\Users\Kayla\Anaconda3\envs\DAND
+prefix: C:\Users\<username>\Anaconda3\envs\DAND
